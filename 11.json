@@ -1,5 +1,5 @@
 {
-    "spider": "./custom_spider.jar;md5;0ebd25cab1af00d9437e41c27dcb85a0",
+    "spider": "./custom_spider.jar;md5;fc299d06b2226a2e4edd08818c165c04",
     "logo": "https://pan.szfx.top/down.php/ef8b0f8d13cbfc91302dea55458bef7f.gif",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmu&title={name}&ep={episode}",
     "wallpaper": "https://blur.zntv.dpdns.org",
@@ -102,8 +102,8 @@
             {
                 "siteUrl":
                 [
-                    "http://feimo.fun",
-                    "http://xiaocgege.shop"
+                    "http://tvpanpan.site",
+                    "https://www.mmpanpan.site"
                 ]
             }
         },
@@ -119,10 +119,7 @@
             {
                 "siteUrl":
                 [
-                    "http://www.miqk.cc",
-                    "https://www.mihdr.top",
-                    "https://mihdr.top",
-                    "https://zhizhen1.top"
+                    "http://www.mihdr.top"
                 ]
             }
         },
@@ -138,9 +135,9 @@
             {
                 "siteUrl":
                 [
-                    "https://tv.yydsys.top",
-                    "https://tv.214521.xyz",
                     "https://tv.yydsys.cc",
+                    "https://pan.yydsys.de",
+                    "https://tv.214521.xyz",
                     "https://yydsys.de5.net"
                 ]
             }
@@ -204,8 +201,8 @@
                 "siteUrl":
                 [
                     "https://woog.nxog.eu.org",
-                    "https://woog.430520.xyz",
-                    "https://woog.nxog.fun"
+                    "https://ogkk.nxog.eu.org ",
+                    "https://woog.nxog.eu.org"
                 ]
             }
         },
@@ -241,8 +238,8 @@
             {
                 "siteUrl":
                 [
+                    "http://xhban.xyz:20720",
                     "http://38.76.197.172:16969",
-                    "http://121.205.88.174:16969",
                     "http://103.45.162.207:20720",
                     "http://xhban.xyz:20720"
                 ]
@@ -278,7 +275,8 @@
                 "siteUrl":
                 [
                     "http://103.45.162.207:12512",
-                    "http://121.205.88.174:12512"
+                    "http://121.205.88.174:12512",
+                    "http://38.76.197.172:12521"
                 ]
             }
         },
@@ -651,7 +649,10 @@
             "api": "csp_Mtq",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "fenzhu",
@@ -660,7 +661,10 @@
             "api": "csp_Fenzhu",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "zhuijudaren",
@@ -669,7 +673,10 @@
             "api": "csp_Zhuijudaren",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "xiaohuangren",
@@ -678,7 +685,10 @@
             "api": "csp_Xiaohuangren",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "xiaoshizi",
@@ -687,7 +697,10 @@
             "api": "csp_Xiaoshizi",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "xianyu",
@@ -696,7 +709,10 @@
             "api": "csp_Xianyu",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "juxiafan",
@@ -705,7 +721,10 @@
             "api": "csp_Juxiafan",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "hetun",
@@ -714,7 +733,10 @@
             "api": "csp_Hetun",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "key": "piku",
@@ -741,7 +763,10 @@
             "api": "csp_Dmghg",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "cryptoToken": "b754a811d441e4e7a31642b5cad00c8f35f6a717997df7ff5a893766ec7e5ba7"
+            }
         },
         {
             "quickSearch": 0,
