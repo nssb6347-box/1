@@ -1,5 +1,5 @@
 {
-    "spider": "./custom_spider.jar;md5;96fd04979ba77eed16f7a9d62645d27e",
+    "spider": "./custom_spider.jar;md5;0ebd25cab1af00d9437e41c27dcb85a0",
     "logo": "https://pan.szfx.top/down.php/ef8b0f8d13cbfc91302dea55458bef7f.gif",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmu&title={name}&ep={episode}",
     "wallpaper": "https://blur.zntv.dpdns.org",
